@@ -1,1 +1,1 @@
-# geospatial_data_analysis_book
+Rで学ぶデータサイエンス7『地理空間データ分析』練習用
